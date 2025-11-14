@@ -72,7 +72,6 @@ VITE_SERVER_URL=https://my-production-server.example.com npm run dev
 ![Uploading image.png…]()
 
 
-
 ### 4. Share a room
 
 Open the UI, click **Share Room** to copy a unique room link, and send it to teammates. Everyone with the link can draw instantly—no login flow.
