@@ -65,6 +65,13 @@ Vite serves the SPA on `http://localhost:5173`. The app automatically connects t
 ```bash
 VITE_SERVER_URL=https://my-production-server.example.com npm run dev
 ```
+### Screenshot
+<br/>
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a80440a8-50c3-4627-87eb-0cbeb2de9651" />
+<br/>
+![Uploading image.png…]()
+
+
 
 ### 4. Share a room
 
